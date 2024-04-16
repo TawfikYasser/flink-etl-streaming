@@ -1,0 +1,7 @@
+FlinkETLStreaming/Dto/Transaction.class
+FlinkETLStreaming/DataStreamJob.class
+FlinkETLStreaming/Dto/SalesPerDay.class
+FlinkETLStreaming/Dto/SalesPerMonth.class
+FlinkETLStreaming/Utils/JsonUtil.class
+FlinkETLStreaming/Deserializer/JSONValueDeserializationSchema.class
+FlinkETLStreaming/Dto/SalesPerCategory.class

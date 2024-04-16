@@ -1,0 +1,7 @@
+/home/tawfik/SSDData/DE/Projects/flinkstreamingproject/flink-etl-streaming/FlinkETLStreaming/src/main/java/FlinkETLStreaming/Utils/JsonUtil.java
+/home/tawfik/SSDData/DE/Projects/flinkstreamingproject/flink-etl-streaming/FlinkETLStreaming/src/main/java/FlinkETLStreaming/Dto/SalesPerCategory.java
+/home/tawfik/SSDData/DE/Projects/flinkstreamingproject/flink-etl-streaming/FlinkETLStreaming/src/main/java/FlinkETLStreaming/DataStreamJob.java
+/home/tawfik/SSDData/DE/Projects/flinkstreamingproject/flink-etl-streaming/FlinkETLStreaming/src/main/java/FlinkETLStreaming/Deserializer/JSONValueDeserializationSchema.java
+/home/tawfik/SSDData/DE/Projects/flinkstreamingproject/flink-etl-streaming/FlinkETLStreaming/src/main/java/FlinkETLStreaming/Dto/SalesPerDay.java
+/home/tawfik/SSDData/DE/Projects/flinkstreamingproject/flink-etl-streaming/FlinkETLStreaming/src/main/java/FlinkETLStreaming/Dto/SalesPerMonth.java
+/home/tawfik/SSDData/DE/Projects/flinkstreamingproject/flink-etl-streaming/FlinkETLStreaming/src/main/java/FlinkETLStreaming/Dto/Transaction.java
